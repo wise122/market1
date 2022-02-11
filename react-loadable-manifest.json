@@ -1,0 +1,21 @@
+{
+  "index.tsx -> ../App": {
+    "id": 96388,
+    "files": [
+      "static/chunks/framework-c0cefa1d89deddd30198.js",
+      "static/chunks/1101bee1.5d6dd00945dbd0eef98c.js",
+      "static/chunks/0a5d238a.d3e2564e40cd0e00f53c.js",
+      "static/chunks/c4361d36.8d358b495e1025ebda0d.js",
+      "static/chunks/b92dc345.ab1a652dfc840c965277.js",
+      "static/chunks/020d8314.4b265a9219e1b3d19e18.js",
+      "static/chunks/a29ae703.dceae57293dd4b2727ea.js",
+      "static/chunks/2edb282b.739b6edbc3f19808bef4.js",
+      "static/chunks/2979ab21.bcf3657971e5ecac9bb5.js",
+      "static/chunks/24c43472.c6fe6c79b378b1ff0fd0.js",
+      "static/chunks/51c52c66.3c88eddcb9c75d35aebf.js",
+      "static/chunks/3e36de45.57b442d8bc5c7fe28879.js",
+      "static/chunks/967.032be3e96567cbee11b8.js",
+      "static/chunks/214.7b1095328956cfbe32eb.js"
+    ]
+  }
+}
